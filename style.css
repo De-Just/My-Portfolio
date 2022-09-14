@@ -3,7 +3,7 @@ body{
     
 }
 .home2{
-    background-image: url(img/clement-helardot-95YRwf6CNw8-unsplash\ -\ Copy.jpg) ;
+    background-image: url(clement-helardot-95YRwf6CNw8-unsplash\ -\ Copy.jpg) ;
     background-repeat: no-repeat; 
     background-size: cover;
 }
@@ -24,7 +24,7 @@ img{
 }
 
 #about{
-    background-image:url(img/firmbee-com-qhhrsA4_Vpo-unsplash.jpg); 
+    background-image:url(firmbee-com-qhhrsA4_Vpo-unsplash.jpg); 
     background-size: cover;
     /* background-color: aliceblue; */
 }
