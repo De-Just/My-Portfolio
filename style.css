@@ -1,0 +1,50 @@
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    
+}
+.home2{
+    background-image: url(img/clement-helardot-95YRwf6CNw8-unsplash\ -\ Copy.jpg) ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+#navbar{
+    background-color: black;
+}
+.hover{
+    border-bottom: 1px solid goldenrod;
+}
+
+.home{
+   padding: 160px 0 !important;
+   background-color:rgba(0, 0, 0, 0.808) ; 
+   height: 150%;
+}
+img{
+    max-width: 90%;
+}
+
+#about{
+    background-image:url(img/firmbee-com-qhhrsA4_Vpo-unsplash.jpg); 
+    background-size: cover;
+    /* background-color: aliceblue; */
+}
+#text{
+    text-align: justify !important;
+}
+@media (max-width:768px ) {
+    .home{
+        margin-top: 0px;
+    }
+   
+
+}
+@media (min-width:800px)  {
+    .home{
+        padding: 230px 0px !important;
+    }
+   
+
+}
+#shadow{
+    box-shadow: 5px 5px 0px 0px rgba(255, 255, 255, 0.363);
+}
